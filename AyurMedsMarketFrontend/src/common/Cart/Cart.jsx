@@ -14,7 +14,7 @@ const Cart = ({ CartItem, addToCart, decreaseQty }) => {
     };
 
 
-  // prodcut qty total
+  // prodcut
   return (
     <>
       <section className="cart-items">
