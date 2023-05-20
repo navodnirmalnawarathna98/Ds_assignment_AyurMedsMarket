@@ -1,0 +1,24 @@
+.row{
+display: flex;
+}
+.btn-group-confirm{
+width: 14%;
+}
+.btn-group-reject{
+    width: 15.5%;
+    }
+.active{
+        color: #000;
+background-color: #ffcd39;
+border-color: #ffc720;
+    }
+    .link{
+        margin-top: 9px !important;
+        margin-left: 15px !important;
+    }
+ 
+    .open-branch{
+        margin-bottom: 10px;
+        width: 100%;
+        text-align: end;
+    }
